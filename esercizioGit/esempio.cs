@@ -8,5 +8,6 @@ namespace esercizioGit
 {
     class esempio
     {
+        //modifica classe
     }
 }
