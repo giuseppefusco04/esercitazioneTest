@@ -23,6 +23,7 @@ namespace esercizioGit
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("CIAO");
         }
     }
 }
